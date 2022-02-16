@@ -1,0 +1,9 @@
+{
+    "name": "b2b/factory",
+    "autoload": {
+        "psr-4": {
+            "B2b\\Factory\\": "src/"
+        }
+    },
+    "require": {}
+}
